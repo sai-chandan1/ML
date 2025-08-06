@@ -1,0 +1,94 @@
+## Feature SKUs
+- 📦 Feature SKU 216418 to boost sales.
+- 📦 Feature SKU 216419 to boost sales.
+- 📦 Feature SKU 217217 to boost sales.
+- 📦 Feature SKU 217390 to boost sales.
+- 📦 Feature SKU 217777 to boost sales.
+- 📦 Feature SKU 219009 to boost sales.
+- 📦 Feature SKU 219029 to boost sales.
+- 📦 Feature SKU 219844 to boost sales.
+- 📦 Feature SKU 222087 to boost sales.
+- 📦 Feature SKU 222765 to boost sales.
+- 📦 Feature SKU 223153 to boost sales.
+- 📦 Feature SKU 223245 to boost sales.
+- 📦 Feature SKU 245338 to boost sales.
+- 📦 Feature SKU 245387 to boost sales.
+- 📦 Feature SKU 300021 to boost sales.
+- 📦 Feature SKU 300291 to boost sales.
+- 📦 Feature SKU 320485 to boost sales.
+- 📦 Feature SKU 327492 to boost sales.
+- 📦 Feature SKU 378934 to boost sales.
+- 📦 Feature SKU 398721 to boost sales.
+- 📦 Feature SKU 545621 to boost sales.
+- 📦 Feature SKU 546789 to boost sales.
+- 📦 Feature SKU 600934 to boost sales.
+- 📦 Feature SKU 673209 to boost sales.
+- 📦 Feature SKU 679023 to boost sales.
+
+## Underperforming Stores
+- 🏪 Store 8063 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8091 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8094 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8121 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8218 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8319 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8392 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8422 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8555 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8911 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 8991 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9001 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9043 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9092 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9132 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9178 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9190 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9221 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9273 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9279 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9281 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9328 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9371 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9425 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9430 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9432 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9436 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9439 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9442 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9456 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9479 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9490 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9532 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9578 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9632 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9680 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9700 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9731 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9770 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9789 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9813 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9876 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9879 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9880 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9954 is underperforming. Consider promotions or price cuts.
+- 🏪 Store 9984 is underperforming. Consider promotions or price cuts.
+
+## Price Reduction for SKUs
+- 💰 Reduce price of SKU 222765 to increase demand.
+- 💰 Reduce price of SKU 398721 to increase demand.
+- 💰 Reduce price of SKU 245387 to increase demand.
+- 💰 Reduce price of SKU 245338 to increase demand.
+- 💰 Reduce price of SKU 545621 to increase demand.
+- 💰 Reduce price of SKU 217217 to increase demand.
+- 💰 Reduce price of SKU 219029 to increase demand.
+- 💰 Reduce price of SKU 600934 to increase demand.
+- 💰 Reduce price of SKU 673209 to increase demand.
+- 💰 Reduce price of SKU 219844 to increase demand.
+- 💰 Reduce price of SKU 217777 to increase demand.
+- 💰 Reduce price of SKU 223153 to increase demand.
+- 💰 Reduce price of SKU 222087 to increase demand.
+- 💰 Reduce price of SKU 219009 to increase demand.
+- 💰 Reduce price of SKU 223245 to increase demand.
+- 💰 Reduce price of SKU 679023 to increase demand.
+- 💰 Reduce price of SKU 546789 to increase demand.
+
